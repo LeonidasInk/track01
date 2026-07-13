@@ -15,8 +15,8 @@ Todas las acciones sensibles requieren aprobación humana antes de ejecutarse, c
 
 # usuarios para logeo
 
-usuario es: equipo
-contraseña: nexofin2026
+- usuario es: equipo
+- contraseña: nexofin2026
 
 
 # Tecnologías utilizadas
