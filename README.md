@@ -52,7 +52,6 @@ Una vez iniciado:
 
 - **Usuario:** `equipo`
 - **Contraseña:** `nexofin2026`
-
 ---
 
 # Tecnologías utilizadas
@@ -77,6 +76,7 @@ Una vez iniciado:
 
 # Estructura del proyecto
 
+```
 track01/
 │
 ├── README.md
@@ -187,6 +187,7 @@ track01/
     │       └── format.ts
     │
     └── node_modules/                 # dependencias npm (no versionar)
+```
 ---
 
 # Variables de entorno
